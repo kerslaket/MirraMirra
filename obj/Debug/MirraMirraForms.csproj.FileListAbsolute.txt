@@ -1,0 +1,9 @@
+C:\Users\kersl\Google Drive\Work\SmartMirror\MirraMirraForms\bin\Debug\MirraMirraForms.exe.config
+C:\Users\kersl\Google Drive\Work\SmartMirror\MirraMirraForms\bin\Debug\MirraMirraForms.exe
+C:\Users\kersl\Google Drive\Work\SmartMirror\MirraMirraForms\bin\Debug\MirraMirraForms.pdb
+C:\Users\kersl\Google Drive\Work\SmartMirror\MirraMirraForms\obj\Debug\MirraMirraForms.csprojResolveAssemblyReference.cache
+C:\Users\kersl\Google Drive\Work\SmartMirror\MirraMirraForms\obj\Debug\MirraMirraForms.Form1.resources
+C:\Users\kersl\Google Drive\Work\SmartMirror\MirraMirraForms\obj\Debug\MirraMirraForms.Properties.Resources.resources
+C:\Users\kersl\Google Drive\Work\SmartMirror\MirraMirraForms\obj\Debug\MirraMirraForms.csproj.GenerateResource.Cache
+C:\Users\kersl\Google Drive\Work\SmartMirror\MirraMirraForms\obj\Debug\MirraMirraForms.exe
+C:\Users\kersl\Google Drive\Work\SmartMirror\MirraMirraForms\obj\Debug\MirraMirraForms.pdb
